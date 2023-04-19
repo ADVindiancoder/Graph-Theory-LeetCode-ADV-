@@ -7,3 +7,6 @@ All solutions are provided in Java , along with detailed explanations to help yo
 Feel free to use and modify the code for your own practice, and don't forget to report any issues or suggest improvements via PRs or issues. 🤝👨‍💻
 
 Let's solve some advanced graph theory problems together and take our coding skills to the next level! 🎉💻
+
+
+![alt text](programmer.png)
